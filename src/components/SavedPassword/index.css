@@ -1,0 +1,66 @@
+.saved-password-item {
+  border-radius: 6px;
+  border: 1px solid #64748b;
+  width: 350px;
+  height: 100px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.password-profile-sec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.profile-pic-bg {
+  width: 60px;
+  height: 60px;
+  background-color: lightgreen;
+  border-radius: 30px;
+  margin-right: 5px;
+}
+.profile-pic {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+}
+.profile-details {
+  margin: 10px;
+}
+.website-name {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: white;
+  margin-bottom: 5px;
+}
+.profiler-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+  margin-bottom: 5px;
+  margin-top: 0px;
+}
+.website-password {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+
+  margin-top: 0px;
+}
+.delete-btn {
+  background-color: transparent;
+  border-width: 0px;
+  width: 100px;
+  text-align: right;
+}
+.delete-icon {
+  width: 20px;
+  color: #64748b;
+}
+.star-icons {
+  width: 100px;
+}
